@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Here’s an alternate version for your "About Me" section:<br><br>🔭 I’m currently working on freelancing projects and a student management system.<br>👯 I’m looking to collaborate on innovative web development ideas.<br>🤝 I’m looking for help with boosting my freelancing profile and exploring new opportunities.<br>🌱 I’m currently learning Vue.js and diving into web penetration testing.<br>💬 Ask me about Elementor tricks, Laravel, or creating stunning landing pages.<br>⚡ Fun fact: I’ve built a website that provides temporary Gmail accounts and love experimenting with 3D web designs!
+🔭 I’m currently working on freelancing projects and a student management system.<br>👯 I’m looking to collaborate on innovative web development ideas.<br>🤝 I’m looking for help with boosting my freelancing profile and exploring new opportunities.<br>🌱 I’m currently learning Vue.js and diving into web penetration testing.<br>💬 Ask me about Elementor tricks, Laravel, or creating stunning landing pages.<br>⚡ Fun fact: I’ve built a website that provides temporary Gmail accounts and love experimenting with 3D web designs!
 
 
 ## 🌐 Socials:
